@@ -9,7 +9,7 @@ public class Main {
         else if (sight >= 0.5)
             System.out.println("Middle");
         else
-            System.out.println(":Low");
+            System.out.println("Low");
 
         sc.close();
     }
